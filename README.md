@@ -1,2 +1,2 @@
 # Yangin Tespiti
-Keras ile yangın tespit modeli oluşturma ve testi</br>
+Keras ile CNN kullanarak yangın tespit modeli oluşturma ve testi</br>
